@@ -4,4 +4,5 @@ html, body {
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
+  background-color: #FFF;
 }
