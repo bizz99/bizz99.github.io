@@ -5,5 +5,8 @@ p {
 h1 {
 	font-size: 48px;
   font-family: Calibri, 'Palatino Linotype', serif;
-	border: 2px solid black;
+}
+.page-title {
+  text-align: center;
+  font-weight: 100;
 }
