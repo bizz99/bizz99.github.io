@@ -9,6 +9,9 @@ html, body {
 padding-left: 48px;
   min-width: 75%;
 border: 4px solid #FFF;
+	display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 h1 {
 	font-size: 48px;
