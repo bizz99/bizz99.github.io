@@ -13,7 +13,7 @@ border: 4px solid #FFF;
   flex-wrap: wrap;
   justify-content: center;
 }
-h1 {
+.header {
 	  border: 1px solid #000;
   text-align: center;
   padding: 24px;
