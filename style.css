@@ -1,6 +1,6 @@
 div {
 	border-radius: 5px;
-	border: 1px solid #204156;
+	border: 1px dotted #204156;
 }
 html, body {
   font-family: cambria;
@@ -20,7 +20,6 @@ border: 4px solid #FFF;
 	margin-bottom: 48px;
 }
 .header {
-	  border: 1px solid #000;
 		  margin: 20px;
   text-align: center;
 	 margin-top: 20px;
