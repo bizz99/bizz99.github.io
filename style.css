@@ -14,7 +14,7 @@ border: 4px solid #FFF;
 	display: flex;
   flex-wrap: wrap;
   justify-content: center;
-	margin-right: 60px;
+	margin-right: 72px;
 }
 .header {
 	  border: 1px solid #000;
@@ -22,7 +22,4 @@ border: 4px solid #FFF;
 	 margin-top: 20px;
   padding: 24px;
 	color: blue;
-}
-.education {
-	text-align: left;
 }
