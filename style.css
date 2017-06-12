@@ -13,6 +13,7 @@ padding-left: 48px;
   min-width: 75%;
 border: 4px solid #FFF;
 	display: flex;
+	  padding: 30px;
   flex-wrap: wrap;
   justify-content: center;
 	margin-right: 72px;
