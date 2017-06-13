@@ -10,7 +10,6 @@ padding-left: 48px;
 	display: flex;
 	  padding: 30px;
   flex-wrap: wrap;
-	text-align: center;
   justify-content: center;
 	margin-right: 72px;
 	margin-bottom: 48px;
@@ -19,7 +18,7 @@ padding-left: 48px;
 .header {
 		  margin: 20px;
   text-align: center;
-	 margin-top: 20px;
+	 margin-top: 16px;
   padding: 24px;
 	color: blue;
 }
